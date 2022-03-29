@@ -1,0 +1,27 @@
+For graph with 8717 vertices and 31525 edges:
+
+p=1  Time taken=30 seconds
+p=2  Time taken=19 seconds
+p=4  Time taken=12 seconds
+p=8  Time taken=11 seconds
+p=16 Time taken=9  seconds
+
+
+For graph with 81867 vertices and 545671 edges:
+
+p=1  Time taken= 998 seconds
+p=2  Time taken= 873 seconds
+p=4  Time taken= 577 seconds
+p=8  Time taken= 456 seconds
+p=16 Time taken= 291 seconds
+
+
+For graph with 82168 vertices and 870161 edges:
+
+p=1  Time taken= 3010 seconds
+p=2  Time taken= 2529 seconds
+p=4  Time taken= 2005 seconds
+p=8  Time taken= 1142 seconds
+p=16 Time taken= 677 seconds
+
+All the times were computed with 0.1 restart probability,num_steps=100,num_walks=30,num_rec=20,seed=369
